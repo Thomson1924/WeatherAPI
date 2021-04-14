@@ -80,6 +80,6 @@ namespace WeatherForecast.Controllers
                 return jsonstring;
             }
         }
-
+        //797ec38192d415f293f7b99adcb4f790 - klucz API ipstacks.com
     }
 }
